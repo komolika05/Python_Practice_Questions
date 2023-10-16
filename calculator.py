@@ -1,4 +1,4 @@
-#Write a program of a working calulator performing all the operations
+#Write a program of a working calulator performing all the operations and restart
 
 import os
 
